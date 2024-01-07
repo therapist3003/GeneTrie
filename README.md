@@ -11,3 +11,5 @@ it outputs the **possible characteristics** he/she may possess.
 **_Resources :_**
 1) https://stackoverflow.com/questions/4737904/difference-between-tries-and-trees?newreg=d8d036e486f14fd4a5417a1085ca1501
 2) https://romankurnovskii.com/en/posts/tree-vs-trie-data-structures/
+3) Trie, Suffix Trie, Suffix Tree - Playlist:     
+   https://youtube.com/watchv=llTjA5SeS7k&list=PL2mpR0RYFQsDFNyRsTNcWkFTHTkxWREeb&index=2
