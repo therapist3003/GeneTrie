@@ -1,3 +1,6 @@
+**_KEY IDEA: A Substring is a prefix of a suffix_**
+_Reference: https://youtube.com/watch?v=llTjA5SeS7k&list=PL2mpR0RYFQsDFNyRsTNcWkFTHTkxWREeb&index=2 (15:00)_
+
 This project creates a **Suffix Trie** of large **DNA dataset** and given any sufficiently long DNA sequence, it outputs
 whether a match is found with **O(n) time** , where **n** is the length of the query sequence.
 
